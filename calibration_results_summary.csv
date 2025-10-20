@@ -1,0 +1,17 @@
+Model,Brier_Score,Calibration_Slope,Calibration_Intercept
+LRM_01_internal,0.1638,1.0674,0.0529
+LRM_01_external,0.1794,0.932,-0.1629
+LRM_02_internal,0.1841,1.0133,-0.9156
+LRM_02_external,0.188,0.9279,-0.8503
+DT_01_internal,0.1807,0.0363,-0.4391
+DT_01_external,0.1956,-0.8466,-0.8186
+DT_02_internal,0.208,0.6914,-0.7492
+DT_02_external,0.2034,0.7143,-0.8244
+RF_01_internal,0.1641,2.7683,1.4535
+RF_01_external,0.1749,2.8159,1.2813
+RF_02_internal,0.1759,3.3218,-1.4022
+RF_02_external,0.1766,1.5414,-0.6606
+XGB_01_internal,0.1593,0.9012,-0.0297
+XGB_01_external,0.1794,0.7656,-0.1781
+XGB_02_internal,0.1622,0.7771,-0.432
+XGB_02_external,0.1689,0.7478,-0.3752
